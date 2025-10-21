@@ -28,7 +28,7 @@ The agents work together to analyze Apple’s (AAPL) stock over a defined time r
 
 ---
 
-## Course Learning Outcomes Demonstrated
+## The Learning Outcomes 
 
 - Understanding of NLP and LLM workflows  
 - Application of Agentic AI design principles  
@@ -39,10 +39,8 @@ The agents work together to analyze Apple’s (AAPL) stock over a defined time r
 
 ---
 
+
 ## Repository Structure
-
-ect
-
 
 ```
 Group5AI520FinalProject/
